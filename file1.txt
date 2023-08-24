@@ -2,3 +2,12 @@ This is to emulate git fetch run on the mothership using git push that is
 run in the opposite to 
  and is often necessary when you can only make connection in one way 
 (i.e. satellite can ssh into mothership but mothership cannot initiate connection to s
+
+
+
+
+1
+
+3
+
+4
