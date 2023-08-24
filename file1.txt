@@ -1,4 +1,4 @@
 This is to emulate git fetch run on the mothership using git push that is 
-run in the opposite direction in order to integrate the work done on satellite,
+run in the opposite to 
  and is often necessary when you can only make connection in one way 
 (i.e. satellite can ssh into mothership but mothership cannot initiate connection to s
